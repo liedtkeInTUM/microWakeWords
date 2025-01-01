@@ -3,6 +3,7 @@
   "wake_word": "hey phönix",
   "author": "Sven Liedtke",
   "model": "hey_phoenix.tflite",
+  "trained_languages": ["de"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.94,
