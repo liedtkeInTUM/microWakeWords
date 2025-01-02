@@ -1,13 +1,13 @@
 {
   "type": "micro",
-  "wake_word": "hey phönix",
+  "wake_word": "hey pho:nix",
   "author": "Sven Liedtke",
   "website": "",
   "model": "hey_phoenix.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.94,
+    "probability_cutoff": 0.99,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 22860,
