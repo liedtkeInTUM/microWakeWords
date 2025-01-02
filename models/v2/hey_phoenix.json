@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey pho:nix",
   "author": "Sven Liedtke",
-  "website": "",
+  "website": "none",
   "model": "hey_phoenix.tflite",
   "trained_languages": ["de"],
   "version": 2,
